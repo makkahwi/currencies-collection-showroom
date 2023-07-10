@@ -1,23 +1,35 @@
 # Currencies Showroom
 
-Welcome to my "Currencies Showroom", a Vue.Js-Django Based Open-source Project
+Welcome to my "Currencies Showroom", a Vue.Js & Strapi based open-source project
 
 This is originally a coding project to learn the frontend tech used (Vue.Js), but it was decided to kill two birds with one stone. So beside mastering the tech, it's also to build an actual & usable web app to serve "money collection" hobbyists.
 
-It's a web app to publish one's collection of currencies from all over the world to all over the world. Where collectors would clone this project & deploy it to enlist their currencies, and the public could just browse their showrooms right away.
+Are you a currency collector n wanna build an online catalog for your collections? This is it
+
+It's a web app to publish one's collection of currencies from all the world to all the world. Where collectors would clone this project & deploy it to enlist their currencies, and the public could just browse their showrooms right away.
 
 ## Features
 
-When it's ready for a release, features will be listed here.
+- Full-Detail Listing: You could enlist all the details you could ever think of about your currencies collection.
+- Automated Market Evaluation: Once you enlist a currency, the system added up its circular value to total value estimation.
+- Best Techs Involved: Techs of Vue.Js 3 & Strapi of Node.Js were the best to serve the project and its purposes.
+
+## Coming Soon Features
+
+As of this moment, you could use the admin panel (Strapi app) to add the currencies collection and the public showroom (Vue.Js app) to view them. Soon, a new admin panel will be built to not only include data input controls, but also a dashboard to provide reports & data analysis about the collection.
+
+## Future Works
+
+- Now user is required to upload an image of their collected currency piece. Later, a feature will be built to automatically find the appropriate photo for the piece to attach.
+- Expand the project uses like any other sort of collections showrooming or even other uses like photos gallery.
+- This is an open-source project with potential to get fund & turn it into a profitable project (like making it a SaaS product).
 
 ## How to deploy & start using as a collector
 
-For auto deploying purposes, app was split into two seperated github repos. You may visit each of them to follow progress.
+App is split into two seperated github repos. You may visit each of them to follow progress.
 
-[Frontend](https://github.com/makkahwi/currencies-showroom-client)
+[Frontend](https://github.com/makkahwi/ccs-client)
 
-[Backend](https://github.com/makkahwi/currencies-showroom-server)
+[Backend](https://github.com/makkahwi/ccs-be)
 
-Instructions are to be shaped when the app is readly for a release
-
-## Stay tuned 🕐
+As a developer, you are to clone each repo, customize it if needed, and then deploy it.
