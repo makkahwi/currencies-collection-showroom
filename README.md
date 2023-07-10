@@ -45,10 +45,8 @@ As of this moment, you could use the admin panel (Strapi app) to add the currenc
 
 ## How to deploy & start using as a collector
 
-App is split into two seperated github repos. You may visit each of them to follow progress.
-
-[Frontend](https://github.com/makkahwi/ccs-client)
-
-[Backend](https://github.com/makkahwi/ccs-be)
-
-As a developer, you are to clone each repo, customize it if needed, and then deploy it.
+If you are not a web developer (coder / programmer), we are still working to provide you with an easy approach to build your own showroom. If you are a developer...
+- App is split into two seperated github repos. You may visit each of them to follow progress.
+- [Frontend](https://github.com/makkahwi/ccs-client)
+- [Backend](https://github.com/makkahwi/ccs-be)
+- As a developer, you are to clone each repo, customize if needed and then deploy.
