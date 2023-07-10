@@ -13,6 +13,9 @@ It's a web app to publish one's collection of currencies from all the world to a
 - Full-Detail Listing: You could enlist all the details you could ever think of about your currencies collection.
 - Automated Market Evaluation: Once you enlist a currency, the system added up its circular value to total value estimation.
 - Best Techs Involved: Techs of Vue.Js 3 & Strapi of Node.Js were the best to serve the project and its purposes.
+- A showroom page for public to browse the collection with filter options.
+- Secured login for showroom owner to access data manipulation features.
+- Statistics & charts dashboard (Counts, Targets, Edges, Map) for owner as well.
 
 ## Coming Soon Features
 
@@ -23,6 +26,22 @@ As of this moment, you could use the admin panel (Strapi app) to add the currenc
 - Now user is required to upload an image of their collected currency piece. Later, a feature will be built to automatically find the appropriate photo for the piece to attach.
 - Expand the project uses like any other sort of collections showrooming or even other uses like photos gallery.
 - This is an open-source project with potential to get fund & turn it into a profitable project (like making it a SaaS product).
+- Automated currencies evaluation (API to 3rd party).
+- Centralize source of zones, currencies, exchange rates, editions, pieces
+- Monthly progress (Timeline).
+- Generate PDF booklet.
+- Social media share of showroom / latest additions.
+- Admin & browser locatiolization.
+- Admin settings to modify theme colors.
+- Centralize & restructure components & subviews.
+- Expand to all sort of collectors (like stamps).
+- Build a centralized & community-contribution-based database for currency updates.
+  - Default sample images.
+  - Historic & latest gold evaluation.
+- Transform into a centralized web services for all collectors.
+  - Registration & subscriptions mgmt sys.
+  - Auto subdomain creation & deployment.
+- Platform for several users
 
 ## How to deploy & start using as a collector
 
