@@ -1,6 +1,6 @@
-# Currencies Showroom
+# Currencies Collection Showroom
 
-Welcome to my "Currencies Showroom", a Vue.Js & Strapi based open-source project
+Welcome to my ["Currencies Collection Showroom"](https://currencies-showroom.vercel.app/), a Vue.Js & Strapi based open-source project
 
 This is originally a coding project to learn the frontend tech used (Vue.Js), but it was decided to kill two birds with one stone. So beside mastering the tech, it's also to build an actual & usable web app to serve "money collection" hobbyists.
 
